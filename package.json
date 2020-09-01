@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
     },
     "dependencies": {
-        "bootstrap": "4.5.0"
+        "bootstrap": "4.5.0",
+        "netlify-cms": "^2.10.56"
     },
     "devDependencies": {
         "autoprefixer": "9.8.0",
